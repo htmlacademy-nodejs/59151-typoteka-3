@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alexey Kavasin](https://up.htmlacademy.ru/nodejs/3/user/59151).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Балесный](https://github.com/balesniy).
 
 ---
 
