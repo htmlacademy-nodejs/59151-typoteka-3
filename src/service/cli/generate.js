@@ -68,9 +68,9 @@ const generatePublications = (count) => (
 );
 
 const getRandomDate = () => {
-    const randomDate = new Date();
-    randomDate.setDate(randomDate.getDate() - getRandomInt(0, PUBLICATION_DATE_LIMIT_IN_DAYS));
-    return randomDate;
+  const randomDate = new Date();
+  randomDate.setDate(randomDate.getDate() - getRandomInt(0, PUBLICATION_DATE_LIMIT_IN_DAYS));
+  return randomDate;
 };
 
 module.exports = {
